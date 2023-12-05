@@ -213,6 +213,7 @@ a {
 #home {
     background: 50% 0 repeat-y fixed;
     -webkit-background-size: cover;
+    opacity: 85%;
     background-size: cover;
     background-position: center center;
     color: #ffffff;
@@ -631,7 +632,7 @@ a {
     Price section              
 -----------------------------------------*/
 #price {
-  background: url('../images/price-bg.jpg') 50% 0 repeat-y fixed;
+  background: url('../images/b2.jpg') 50% 0 repeat-y fixed;
     -webkit-background-size: cover;
     background-size: cover;
     background-position: center center;
@@ -795,7 +796,7 @@ a {
    Footer section              
 -----------------------------------------*/
 footer {
-  background: #26253a;
+  background: url('../images/b13.jpg') 50% 0 repeat-y fixed;
   color: #ffffff;
   padding-top: 8rem;
   padding-bottom: 8rem;
@@ -820,7 +821,7 @@ footer .copyright-text {
 }
 
 .copyright-text a {
-	color: #707070;
+  color: #ffffff;
 	transition: all 0.4s ease-in-out;
 }
 
@@ -844,7 +845,7 @@ footer .copyright-text {
 }
 
 .social-icon li a {
-    color: #999;
+  color: #ffffff;
     border-radius: 100px;
     font-size: 16px;
     text-decoration: none;
